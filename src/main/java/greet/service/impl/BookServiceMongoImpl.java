@@ -1,7 +1,8 @@
-package greet.service;
+package greet.service.impl;
 
 import greet.domain.Book;
 import greet.repository.BookRepository;
+import greet.service.BookService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
